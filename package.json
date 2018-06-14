@@ -1,0 +1,38 @@
+{
+  "name": "node-rate-limit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutv/node-rate-limit.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Tu Tran",
+    "email": "tutv95@gmail.com",
+    "url": "https://github.com/tutv"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutv/node-rate-limit/issues"
+  },
+  "homepage": "https://github.com/tutv/node-rate-limit#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.2",
+    "confidence": "^3.0.2",
+    "cors": "^2.8.4",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "express-robots": "^0.1.6",
+    "morgan": "^1.9.0",
+    "redis": "^2.8.0",
+    "uuid": "^3.2.1"
+  }
+}
