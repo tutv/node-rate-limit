@@ -12,9 +12,12 @@ npm i
 
 ## Test
 
-With rate limit (20 req/minute).
+With rate limit (30 req/minute).
 ```
-#run
+#run server
+node index.js
+
+#run test
 ab -n 200 -c 50 http://localhost:4900/limit
 
 #Ouput
