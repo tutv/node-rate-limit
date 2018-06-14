@@ -1,4 +1,6 @@
-# An example NodeJS app with rate-limiting œ (Backed by Redis and ExpressJS)
+# An example NodeJS app with rate-limiting algorithm
+
+Backed by Redis and ExpressJS.
 
 
 ## Installation
