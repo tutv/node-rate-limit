@@ -14,7 +14,7 @@ npm i
 
 ## Test
 
-With rate limit (30 req/minute).
+With rate-limiting is 30 req/minute.
 ```
 #run server
 node index.js
