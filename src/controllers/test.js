@@ -1,5 +1,5 @@
 exports.limit = (req, res) => {
     setTimeout(() => {
-        res.send('OK')
+        res.send('OK');
     }, 200);
 };

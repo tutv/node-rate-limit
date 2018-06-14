@@ -22,5 +22,5 @@ module.exports = createConnection = (args) => {
         process.exit();
     });
 
-    return _client
+    return _client;
 };
