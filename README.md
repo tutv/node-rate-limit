@@ -12,7 +12,7 @@ yarn
 npm i
 ```
 
-## Test
+## Testing
 
 With rate-limiting is 30 req/minute.
 ```
